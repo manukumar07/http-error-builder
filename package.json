@@ -1,0 +1,26 @@
+{
+  "name": "http-error-builder",
+  "version": "1.0.0",
+  "description": "A simple utility to create custom HTTP errors with stack trace and API-safe JSON output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http-error",
+    "api-error",
+    "express-error",
+    "fastify-error",
+    "error-handler",
+    "custom-error",
+    "rest-error",
+    "error-builder",
+    "error-response"
+  ],
+  "author": "Manu Kumar Pal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//http-error-builder"
+  }
+}
