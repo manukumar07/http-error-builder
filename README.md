@@ -1,6 +1,6 @@
 # http-error-builder
 
-A clean utility to generate custom HTTP errors (400, 401, 404, 500...) for your Express/Fastify APIs with stack trace and safe JSON output.
+> A clean utility to generate custom HTTP errors (400, 401, 404, 500...) for your Express/Fastify APIs with stack trace and safe JSON output.
 
 ## 📦 Installation
 
